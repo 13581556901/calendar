@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Desktop Calendar Pro",
+  "description": "A high-end desktop widget featuring AI-powered scheduling, real-time weather integration, and smart alarm system.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
